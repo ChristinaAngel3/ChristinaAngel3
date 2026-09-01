@@ -90,9 +90,9 @@ To start my career in the technology field, continuously learn new skills, work 
 
 ## 🤝 Connect With Me
 
-📧 Email: [Your Email]
+📧 Email: [angelchristina316@gmail.com]
 
-💼 LinkedIn: [Your LinkedIn Profile]
+💼 LinkedIn: [https://www.linkedin.com/in/angel-christina-751225261]
 
 🐙 GitHub: https://github.com/ChristinaAngel3
 
