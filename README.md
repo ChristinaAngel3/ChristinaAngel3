@@ -2,8 +2,13 @@
 
 ### MCA Graduate | Aspiring Data Science & Gen AI Professional
 
-I'm an MCA graduate interested in **Data Science, Artificial Intelligence and Generative AI**.  
-I'm currently learning new technologies and working on projects to build my practical skills.
+I'm an MCA graduate with an interest in **Data Science, Artificial Intelligence and Generative AI**. I enjoy learning new technologies and building practical projects that help me improve my skills.
+
+- 🎓 MCA Graduate from New Horizon College of Engineering
+- 📍 Bangalore, India
+- 🌱 Currently learning **Python, Data Science & Generative AI**
+- 💡 Interested in **AI, Data Analytics and Technology**
+- 🚀 Looking forward to starting my career and gaining practical experience
 
 ---
 
@@ -11,52 +16,40 @@ I'm currently learning new technologies and working on projects to build my prac
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Data Science & AI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=flat&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
-### Tools & Technologies
+### Data Science & AI
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-%238A2BE2.svg?style=flat)
 
----
+### Web & Other Technologies
 
-## 📊 Data Science Skills
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
-- Data Analysis
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning
-- Model Evaluation
-- Data Visualization
-- Generative AI
+### Tools
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-%23217346.svg?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -64,59 +57,63 @@ I'm currently learning new technologies and working on projects to build my prac
 
 ### 🌍 Travel Buddy
 
-A travel companion platform that helps users find and connect with travel companions.
+A travel companion platform designed to help users find and connect with travel companions.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, OpenWeather API
+**Technologies:**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### 💼 Career Connect
 
-A job portal application developed using Java Swing with MySQL as the backend database.
+A job portal application developed to connect job seekers with available opportunities.
 
-**Tech Stack:** Java, Java Swing, MySQL, NetBeans IDE
+**Technologies:**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white)
 
 ### ♻️ AI-Based Waste Management
 
-A project focused on using Artificial Intelligence to support better waste management and recycling practices.
+A project focused on using AI to support better waste management and recycling practices.
 
-**Tech Stack:** Python, Machine Learning, AI
+**Technologies:**
 
----
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**  
-New Horizon College of Engineering  
-CGPA: 8.3
-
-**Bachelor of Science (B.Sc.)**  
-Gulbarga University  
-CGPA: 8.05
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=flat)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-%238A2BE2.svg?style=flat)
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-- Python
-- Data Science
-- Machine Learning
-- Generative AI
-- Data Analytics
-- AI Tools & Applications
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-%23013243.svg?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative_AI-%238A2BE2.svg?style=flat)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-%23007ACC.svg?style=flat)
+![AI Tools](https://img.shields.io/badge/AI_Tools-%23F7931E.svg?style=flat)
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 My Goal
 
-![Christina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristinaAngel3&show_icons=true&theme=default)
+To start my career in the technology field, continuously learn new skills, work on real-world projects and grow into a professional in **Data Science and Generative AI**.
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+📧 **Email:** [angelchristina316@gmail.com]
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristinaAngel3)
+💼 **LinkedIn:** [https://www.linkedin.com/in/angel-christina-751225261]
+
+🐙 **GitHub:** [ChristinaAngel3](https://github.com/ChristinaAngel3)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Feel free to explore my repositories and projects!
