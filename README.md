@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi 👋, I'm Christina Angel
 
-<!--
-**ChristinaAngel3/ChristinaAngel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Graduate | Aspiring Data Science & Gen AI Professional
 
-Here are some ideas to get you started:
+I'm an MCA graduate with an interest in **Data Science, Artificial Intelligence and Generative AI**. I enjoy learning new technologies and building practical projects that help me improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 MCA Graduate from New Horizon College of Engineering
+* 📍 Bangalore, India
+* 🌱 Currently learning **Python, Data Science & Generative AI**
+* 💡 Interested in **AI, Data Analytics and Technology**
+* 🚀 Looking forward to starting my career and gaining practical experience
+
+---
+
+## 🛠️ Skills
+
+### Programming & Database
+
+* Python
+* Java
+* SQL
+* MySQL
+* C / C++
+
+### Data Science & AI
+
+* Data Analysis
+* Machine Learning
+* Generative AI
+* Scikit-learn
+* Streamlit
+* Pandas
+* NumPy
+
+### Web & Other Technologies
+
+* HTML
+* CSS
+* React.js
+* Node.js
+* MongoDB
+
+### Tools
+
+* Git & GitHub
+* NetBeans
+* VS Code
+* MS Excel
+
+---
+
+## 📌 Projects
+
+### 🌍 Travel Buddy
+
+A travel companion platform designed to help users find and connect with travel companions.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, OpenWeather API
+
+### 💼 Career Connect
+
+A job portal application developed to connect job seekers with available opportunities.
+
+**Technologies:** Java, Java Swing, MySQL, NetBeans IDE
+
+### ♻️ AI-Based Waste Management
+
+A project focused on using AI to support better waste management and recycling practices.
+
+**Technologies:** Python, Machine Learning, AI
+
+---
+
+## 📚 Currently Learning
+
+* Python
+* Data Science
+* Machine Learning
+* Generative AI
+* Data Analysis
+* AI Tools & Applications
+
+---
+
+## 🎯 My Goal
+
+To start my career in the technology field, continuously learn new skills, work on real-world projects and grow into a professional in **Data Science and Generative AI**.
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [Your Email]
+
+💼 LinkedIn: [Your LinkedIn Profile]
+
+🐙 GitHub: https://github.com/ChristinaAngel3
+
+---
+
+⭐ Feel free to explore my repositories and projects!
+
+
